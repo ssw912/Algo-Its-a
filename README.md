@@ -1,3 +1,3 @@
-# MzCodeMaster
+# Algo It's a !
 
-WE ARE MZ CODE MASTER!!!
+Algorithm Study Room
